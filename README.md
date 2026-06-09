@@ -1,5 +1,11 @@
 # Ip Revealer
 
+> [!CAUTION]
+> **Heads up:** This is a vibe coding project — built quickly for fun, not
+> hardened or thoroughly tested. **Use at your own risk.** No warranty, no
+> guarantees; review the code before running it on anything you care about.
+
+
 A tiny always-on-top Windows overlay that shows your **public (WAN)** and
 **local (LAN)** IP addresses in a corner of the screen.
 
