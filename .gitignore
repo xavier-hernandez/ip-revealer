@@ -1,0 +1,24 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Pp]ublish/
+*.user
+*.suo
+
+# .NET / Rider / VS
+.vs/
+.idea/
+*.userprefs
+project.lock.json
+artifacts/
+
+# Rider/ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Logs & misc
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
